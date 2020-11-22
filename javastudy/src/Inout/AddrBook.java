@@ -36,6 +36,7 @@ public class AddrBook {
 		
 		System.out.println("----프로그램 종료----");
 		System.out.println(filename+"으로 저장이 되었습니다!!");
+		System.out.println(filename+"으로 저장이 되었습니다!!");
 	}
 
 
